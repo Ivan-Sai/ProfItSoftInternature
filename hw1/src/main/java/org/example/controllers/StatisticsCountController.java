@@ -7,7 +7,7 @@ import org.example.services.XmlWriteService;
 import java.io.IOException;
 
 
-public class MainController {
+public class StatisticsCountController {
 
     private final JsonCountStatisticsService jsonCountStatisticsService = new JsonCountStatisticsService();
     private final XmlWriteService xmlWriteService = new XmlWriteService();

@@ -1,20 +1,20 @@
 package org.example;
 
-import lombok.RequiredArgsConstructor;
-import org.example.controllers.MainController;
+
+import org.example.controllers.StatisticsCountController;
 
 import java.io.IOException;
 
 public class Main {
 
-    private static final MainController mainController = new MainController();
+    private static final StatisticsCountController statisticsCountController = new StatisticsCountController();
     public static void main(String[] args) throws IOException, InterruptedException {
         if (args.length < 2) {
             System.out.println("Usage: java App <path to JSON files> <attribute for statistics>");
             System.exit(1);
         }
 
-        mainController.run(args[0], args[1]);
+        statisticsCountController.run(args[0], args[1]);
 
     }
 }

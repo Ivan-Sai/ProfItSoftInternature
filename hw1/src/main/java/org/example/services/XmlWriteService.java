@@ -13,9 +13,9 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.util.Map;
 
-**//
-// Service for writing statistics to xml file
-// **
+/**
+ * Service for writing statistics to xml file
+ */
 
 public class XmlWriteService {
     public void writeMapToXml(Map<String, Integer> statistics, String arg) {
