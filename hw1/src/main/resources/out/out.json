@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year_published": 1890,
+    "genre": "Gothic Fiction, Philosophical Novel"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year_published": 1818,
+    "genre": "Gothic, Science Fiction"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year_published": 1862,
+    "genre": "Historical Fiction, Epic Novel"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year_published": 1949,
+    "genre": "Dystopian, Political Fiction"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year_published": 1847,
+    "genre": "Gothic Fiction, Tragedy"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year_published": -800,
+    "genre": "Epic Poetry, Mythology"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year_published": 1897,
+    "genre": "Gothic Fiction, Horror"
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year_published": 1884,
+    "genre": "Adventure, Satire"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "year_published": 1850,
+    "genre": "Romance, Historical Fiction"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "year_published": 1963,
+    "genre": "Semi-autobiographical, Psychological Fiction"
+  }
+]

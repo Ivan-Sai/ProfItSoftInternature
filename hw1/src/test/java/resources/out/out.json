@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year_published": 1818,
+    "genre": "Gothic, Science Fiction"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year_published": 1862,
+    "genre": "Historical Fiction, Epic Novel"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year_published": 1967,
+    "genre": "Magical Realism, Historical Fiction"
+  }
+]

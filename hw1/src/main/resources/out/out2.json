@@ -1,0 +1,62 @@
+[
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year_published": 1869,
+    "genre": "Historical Fiction, Epic Novel"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1954,
+    "genre": "Fantasy, Adventure"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1866,
+    "genre": "Psychological Fiction, Philosophical Novel"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year_published": 1851,
+    "genre": "Adventure, Allegory"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1880,
+    "genre": "Philosophical Fiction, Tragedy"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "year_published": 1877,
+    "genre": "Realistic Fiction, Romance"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1937,
+    "genre": "Fantasy, Adventure"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year_published": 1967,
+    "genre": "Magical Realism, Historical Fiction"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "year_published": 1844,
+    "genre": "Adventure, Revenge"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year_published": 1605,
+    "genre": "Satire, Adventure"
+  }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+    <item>
+        <value>Adventure</value>
+        <count>6</count>
+    </item>
+    <item>
+        <value>Historical Fiction</value>
+        <count>4</count>
+    </item>
+    <item>
+        <value>Gothic Fiction</value>
+        <count>3</count>
+    </item>
+    <item>
+        <value>Romance</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Tragedy</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Philosophical Novel</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Fantasy</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Satire</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Epic Novel</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Psychological Fiction</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Horror</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Realistic Fiction</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Allegory</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Gothic</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Revenge</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Science Fiction</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Epic Poetry</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Dystopian</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Magical Realism</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Mythology</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Semi-autobiographical</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Philosophical Fiction</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Political Fiction</value>
+        <count>1</count>
+    </item>
+</statistics>
