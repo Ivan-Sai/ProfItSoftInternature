@@ -12,6 +12,10 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
+**//
+// Service for counting statistics from json files using multithreading
+// **
+
 public class JsonCountStatisticsService {
 
     private final Map<String,Integer> statistics = new HashMap<>();
